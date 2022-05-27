@@ -1,1 +1,3 @@
-# ecs-static-website
+# Expected output
+
+![image](./image.png)
